@@ -1,5 +1,5 @@
 # AYUSH GOYAL (aygo2332)
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Azqpg-90&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Azqpg-90" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aygo2332&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Azqpg-90" /></p>
 <h3 align="center">Hello! Welcome to my profile.<br>
   <p align="center"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20aygo2332@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></p>
   <div align="center"> Social and Contact Info. </div><br>
