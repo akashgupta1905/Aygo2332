@@ -1,12 +1,12 @@
 # AYUSH GOYAL (Azqpg-90)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Azqpg-90&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Azqpg-90" /></p>
 <h3 align="center">Hello! Welcome to my profile.<br>
-  <p align="center"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20ayushgoyal19122002@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></p>
+  <p align="center"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20aygo2332@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></p>
   <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
     <a href="https://portfolio-application.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/ayush-goyal-a447001b7/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:ayushgoyal19122002@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>&nbsp;
+    <a href="mailto:aygo2332@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>&nbsp;
     <a href="https://www.leetcode.com/u/goya2938"><img src="https://img.shields.io/badge/leetcode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=#38B000" alt="Leetcode" /></a>&nbsp;
     <a href="https://drive.google.com/file/d/1ndbwQ7bcjQNXHv9lRoJQBvCy0BBg8kbF/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=internetexplorer&logoColor=02c39a" alt="Resume"/></a>&nbsp;
   </p><br>
